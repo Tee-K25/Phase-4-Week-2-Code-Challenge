@@ -1,4 +1,4 @@
-# Sweet Vendors API
+### Sweet Vendors API
 This is a Flask RESTful API for managing sweet vendors, sweets, and relationships between them.
 
 # Getting Started
@@ -16,7 +16,7 @@ Postman or Insomnia for testing.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/jeffetale/Phase-4-Week-1-Code-Challenge.git
+git clone git@github.com:Tee-K25/Phase-4-Week-2-Code-Challenge.git
 ```
 * Run a virtual environment:
 ```bash
